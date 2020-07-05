@@ -1,0 +1,107 @@
+{
+  "education": {
+    "cards": [
+      {
+        "src": "http://www.freelogovectors.net/wp-content/uploads/2016/12/University-of-Michigan-Logo.png",
+        "alt": "University education",
+        "header": "Bachelor",
+        "meta": "Graduate in Aug 2021",
+        "rightContent": "Major in Data Science and Statistics Minor in Mathematics",
+        "leftContent": "University of Michigan - Ann Arbor"
+      },
+      {
+        "src": "https://img.icons8.com/color/256/000000/school-building.png",
+        "alt": "High School",
+        "header": "High School",
+        "meta": "Sep 2014 - June 2017",
+        "rightContent": "",
+        "leftContent": "Wuxi No.1 High School"
+      }
+    ]
+  },
+
+  "award": {
+    "cards": [
+      {
+        "src": "https://img.icons8.com/cotton/256/000000/medal.png",
+        "alt": "Dean’s List (2018 Spring)",
+        "header": "Dean’s List (2018 Spring)",
+        "meta": "",
+        "rightContent": "",
+        "leftContent": "Acadamic Excellence in the term"
+      },
+      {
+        "src": "https://img.icons8.com/cotton/256/000000/piano.png",
+        "alt": "AMS first place",
+        "header": "Piano Certificate from Shanghai Conservatory of Music",
+        "meta": "",
+        "leftContent": "National",
+        "rightContent": "Level 8 "
+      }
+    ]
+  },
+  "projects": {
+    "containsLinks": true,
+    "cards": [
+    {
+      "src": "https://img.icons8.com/dusk/256/000000/stocks.png",
+      "alt": "Stock Price Predictor",
+      "header": "Stock Price Predictor (using ARIMA and GARCH model)",
+      "meta": "Feb 2019",
+      "leftContent": "R",
+      "rightContent": "",
+      "link": "https://github.com/stat385-sp2019/project-repo-team04-hhhh.git"
+    },
+    {
+      "src": "https://img.icons8.com/ios/256/66ccff/react-native-filled.png",
+      "alt": "Resume",
+      "header": "Resume",
+      "meta": "July 2019",
+      "leftContent": "JSX/HTML",
+      "rightContent": "React/Redux",
+      "link": "https://github.com/olivernan/resume-1.git"
+    },
+    {
+      "src": "https://img.icons8.com/officel/256/000000/robot-2.png",
+      "alt": "Gesture Controlled Car",
+      "header": "Gesture Controlled Car",
+      "meta": "May 2018",
+      "leftContent": "Arduino",
+      "rightContent": "",
+      "link": ""
+    }
+  ]
+},
+  "skills": {
+  "cards":  [
+    {
+      "src": "https://img.icons8.com/color/256/000000/fund-accounting.png",
+      "alt": "Finance Skills",
+      "header": "Finance",
+      "meta": "Intermediate",
+      "leftContent": "Currently Studying (Maths 423 Mathematics of Finance)"
+    },
+    {
+      "src": "https://img.icons8.com/dusk/256/000000/r.png",
+      "alt": "R",
+      "header": "R",
+      "meta": "Intermediate",
+      "leftContent": "Statisitic Computing"
+    }, 
+    {
+      "src": "https://img.icons8.com/color/256/000000/python.png",
+      "alt": "Python",
+      "header": "Python",
+      "meta": "Basic",
+      "leftContent": "Statisitic Computing and Computer Programming"
+    },
+    {
+      "src": "https://img.icons8.com/color/256/000000/java-coffee-cup-logo.png",
+      "alt": "Java",
+      "header": "Java",
+      "meta": "Basic",
+      "leftContent":"Programming"
+    }
+  ]
+  }
+}
