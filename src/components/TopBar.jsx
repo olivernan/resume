@@ -22,6 +22,19 @@ const TopBar = props => {
           </h1>
           <p>{props.description}</p>
         </div>
+
+        <div>
+          <div>
+            <img src="https://img.icons8.com/fluent/24/000000/github.png" style={{margin: " 25px 20px 0px 200px"}}/>
+            <span>olivernan</span>
+          </div>
+
+          <div>
+            <img src="https://img.icons8.com/material-sharp/24/000000/email.png" style={{margin: " 5px 20px 0px 200px"}}/>
+            <span>nanyiyang@gmail.com</span>
+          </div>
+        </div>
+
       </div>
     </div>
   );
