@@ -22,7 +22,7 @@
     "containsLinks": true,
     "cards": [
       {
-        "src": "https://img.icons8.com/cotton/256/000000/medal.png",
+        "src": "https://img.icons8.com/color/256/000000/statistics.png",
         "alt": "Undergraduate Research Program in Statistics  ",
         "header": "Undergraduate Research Program in Statistics",
         "meta": "Jan 2020 - May 2020",
@@ -31,11 +31,11 @@
         "link": "https://github.com/olivernan/spatPomp.git"
       },
       {
-        "src": "https://img.icons8.com/color/256/000000/normal-distribution-histogram.png",
+        "src": "https://github.com/olivernan/resume/blob/master/src/image/pgog.png?raw=true",
         "alt": "Undergraduate Research Opportunity Program",
         "header": "Undergraduate Research Opportunity Program",
         "meta": "Sep 2019 - May 2020",
-        "leftContent": " Implementing a new abstraction for visualizing probability data into a R package",
+        "leftContent": "Developing a new package for visualizing probability data in R",
         "rightContent": "",
         "link": "https://github.com/olivernan/spatPomp.git"
       },
@@ -107,14 +107,14 @@
       "alt": "Python",
       "header": "Python",
       "meta": "Basic",
-      "leftContent": "Statisitic Computing and Computer Programming"
+      "leftContent": "Computer Programming"
     },
     {
       "src": "https://img.icons8.com/color/256/000000/java-coffee-cup-logo.png",
       "alt": "Java",
       "header": "Java",
       "meta": "Basic",
-      "leftContent":"Programming"
+      "leftContent":"Computer Programming"
     }
   ]
   }
