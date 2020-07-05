@@ -8,7 +8,7 @@ const TopBar = props => {
           <img
             style={{borderRadius: "50%"}}
             alt="profile_image"
-            src="/image/IMG_0846.png"
+            src="IMG_0846.png"
             className="ui tiny image"
           />
         </div>
