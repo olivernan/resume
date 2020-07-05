@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = (props) => {
   const imgSrc = props.isImageLocal
-    ? require("/image" + props.src)
+    ? require("../image/" + props.src)
     : props.src;
   console.log(props)
   console.log(imgSrc);
