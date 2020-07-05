@@ -1,5 +1,4 @@
 import React from "react";
-import imgURL from 'IMG_0846.png';
 
 const TopBar = props => {
   return (
@@ -8,7 +7,7 @@ const TopBar = props => {
         <div className="ui two wide column">
           <img
             alt="profile_image"
-            src={imgURL}
+            src={require('IMG_0846.png')}
             className="ui tiny image"
           />
         </div>
