@@ -7,7 +7,7 @@ const TopBar = props => {
         <div className="ui two wide column">
           <img
             alt="profile_image"
-            src="../resume_web/public/IMG_0846.png"
+            src=".../image/IMG_0846.jpeg"
             className="ui tiny image"
           />
         </div>
