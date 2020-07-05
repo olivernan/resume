@@ -2,20 +2,18 @@
   "education": {
     "cards": [
       {
-        "src": "http://www.freelogovectors.net/wp-content/uploads/2016/12/University-of-Michigan-Logo.png",
+        "src": "https://apprecs.org/ios/images/app-icons/256/8c/380339596.jpg",
         "alt": "University education",
-        "header": "Bachelor",
+        "header": "University of Michigan",
         "meta": "Graduate in Aug 2021",
-        "rightContent": "Major in Data Science, Statistics and Mathematics of Finance & Risk Management",
+        "rightContent": "Data Science, Statistics and Mathematics of Finance & Risk Management",
         "leftContent": ""
       },
       {
         "src": "https://img.icons8.com/color/256/000000/school-building.png",
         "alt": "High School",
-        "header": "High School",
-        "meta": "Sep 2014 - June 2017",
-        "rightContent": "",
-        "leftContent": "Wuxi No.1 High School"
+        "header": "Wuxi No.1 High School",
+        "meta": "Sep 2014 - June 2017"
       }
     ]
   },
@@ -44,11 +42,10 @@
       {
         "src": "https://img.icons8.com/color/256/000000/bank-building.png",
         "alt": "Internship",
-        "header": "Undergraduate Research Opportunity Program",
-        "meta": "Sep 2019 - May 2020",
-        "leftContent": " Implementing a new abstraction for visualizing probability data into a R package",
-        "rightContent": "",
-        "link": "https://github.com/olivernan/spatPomp.git"
+        "header": "Internship",
+        "meta": "May 2019 – Aug 2019",
+        "leftContent": "Wuxi Guolian Securities Co., LTD",
+        "rightContent": ""
       }
     ]
   },
@@ -61,8 +58,7 @@
       "header": "S&P 500 Prediction (ARIMA and GARCH hybird-model)",
       "meta": "May 2020",
       "leftContent": "R",
-      "rightContent": "",
-      "link": ""
+      "rightContent": ""
     },
     {
       "src": "https://img.icons8.com/ios/256/66ccff/react-native-filled.png",
@@ -79,8 +75,7 @@
       "header": "Gesture Controlled Car",
       "meta": "May 2018",
       "leftContent": "Arduino",
-      "rightContent": "",
-      "link": ""
+      "rightContent": ""
     }
   ]
 },
