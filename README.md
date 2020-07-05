@@ -3,7 +3,7 @@ This is my personal resume based on `react` and `redux`
 
 ## Installation
 ```shell
-git clone https://github.com/zhangchi0104/resume.git
+git clone https://olivernan.github.io/resume/
 npm install
 ```
 get [Node.js](https://nodejs.org/en/) in order to use `npm` to install dependencies
