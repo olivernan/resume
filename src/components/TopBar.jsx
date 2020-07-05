@@ -1,5 +1,5 @@
 import React from "react";
-import imgURL from '../image/IMG_0846.png';
+import imgURL from 'IMG_0846.png';
 
 const TopBar = props => {
   return (
