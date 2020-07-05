@@ -6,8 +6,8 @@
         "alt": "University education",
         "header": "Bachelor",
         "meta": "Graduate in Aug 2021",
-        "rightContent": "Major in Data Science, Statistics and Mathematics of Finance and Risk Management",
-        "leftContent": "University of Michigan - Ann Arbor"
+        "rightContent": "Major in Data Science, Statistics and Mathematics of Finance & Risk Management",
+        "leftContent": ""
       },
       {
         "src": "https://img.icons8.com/color/256/000000/school-building.png",
@@ -20,23 +20,35 @@
     ]
   },
 
-  "award": {
+  "experience": {
+    "containsLinks": true,
     "cards": [
       {
         "src": "https://img.icons8.com/cotton/256/000000/medal.png",
-        "alt": "Dean’s List (2018 Spring)",
-        "header": "Dean’s List (2018 Spring)",
-        "meta": "",
-        "rightContent": "",
-        "leftContent": "Acadamic Excellence in the term"
+        "alt": "Undergraduate Research Program in Statistics  ",
+        "header": "Undergraduate Research Program in Statistics",
+        "meta": "Jan 2020 - May 2020",
+        "rightContent": "Modeling and data analysis to understand the Island filters for partially observed spatiotemporal systems",
+        "leftContent": "",
+        "link": "https://github.com/olivernan/spatPomp.git"
       },
       {
-        "src": "https://img.icons8.com/cotton/256/000000/piano.png",
-        "alt": "AMS first place",
-        "header": "Piano Certificate from Shanghai Conservatory of Music",
-        "meta": "",
-        "leftContent": "National",
-        "rightContent": "Level 8 "
+        "src": "https://img.icons8.com/color/256/000000/normal-distribution-histogram.png",
+        "alt": "Undergraduate Research Opportunity Program",
+        "header": "Undergraduate Research Opportunity Program",
+        "meta": "Sep 2019 - May 2020",
+        "leftContent": " Implementing a new abstraction for visualizing probability data into a R package",
+        "rightContent": "",
+        "link": "https://github.com/olivernan/spatPomp.git"
+      },
+      {
+        "src": "https://img.icons8.com/color/256/000000/bank-building.png",
+        "alt": "Internship",
+        "header": "Undergraduate Research Opportunity Program",
+        "meta": "Sep 2019 - May 2020",
+        "leftContent": " Implementing a new abstraction for visualizing probability data into a R package",
+        "rightContent": "",
+        "link": "https://github.com/olivernan/spatPomp.git"
       }
     ]
   },
@@ -45,12 +57,12 @@
     "cards": [
     {
       "src": "https://img.icons8.com/dusk/256/000000/stocks.png",
-      "alt": "Stock Price Predictor",
-      "header": "Stock Price Predictor (using ARIMA and GARCH model)",
-      "meta": "Feb 2019",
+      "alt": "S&P 500 index Prediction",
+      "header": "S&P 500 Prediction (ARIMA and GARCH hybird-model)",
+      "meta": "May 2020",
       "leftContent": "R",
       "rightContent": "",
-      "link": "https://github.com/stat385-sp2019/project-repo-team04-hhhh.git"
+      "link": ""
     },
     {
       "src": "https://img.icons8.com/ios/256/66ccff/react-native-filled.png",
@@ -59,7 +71,7 @@
       "meta": "July 2019",
       "leftContent": "JSX/HTML",
       "rightContent": "React/Redux",
-      "link": "https://github.com/olivernan/resume-1.git"
+      "link": "https://github.com/olivernan/resume.git"
     },
     {
       "src": "https://img.icons8.com/officel/256/000000/robot-2.png",
@@ -75,19 +87,26 @@
   "skills": {
   "cards":  [
     {
+      "src": "https://img.icons8.com/dusk/256/000000/r.png",
+      "alt": "R",
+      "header": "R",
+      "meta": "Proficient",
+      "leftContent": "Statistical Programming"
+    }, 
+    {
+      "src": "https://img.icons8.com/color/256/000000/c-plus-plus-logo.png",
+      "alt": "C++",
+      "header": "C++",
+      "meta": "Proficient",
+      "leftContent": "Computer Programming"
+    }, 
+    {
       "src": "https://img.icons8.com/color/256/000000/fund-accounting.png",
       "alt": "Finance Skills",
       "header": "Finance",
       "meta": "Intermediate",
-      "leftContent": "Currently Studying (Maths 423 Mathematics of Finance)"
+      "leftContent": "Mathematics of Finance"
     },
-    {
-      "src": "https://img.icons8.com/dusk/256/000000/r.png",
-      "alt": "R",
-      "header": "R",
-      "meta": "Intermediate",
-      "leftContent": "Statisitic Computing"
-    }, 
     {
       "src": "https://img.icons8.com/color/256/000000/python.png",
       "alt": "Python",

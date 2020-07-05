@@ -1,6 +1,10 @@
 import React from "react";
 
 const TopBar = props => {
+  const src = "IMG_0846.png"
+  const imgSrc = src.startsWith("http://") || src.startsWith('https://') 
+    ? src
+    : require("../image/" + src) 
   return (
     <div className="ui segment">
       <div className="ui stackable grid">
@@ -8,7 +12,7 @@ const TopBar = props => {
           <img
             style={{borderRadius: "50%"}}
             alt="profile_image"
-            src="IMG_0846.png"
+            src= {imgSrc}
             className="ui tiny image"
           />
         </div>

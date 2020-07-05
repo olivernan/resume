@@ -4,7 +4,7 @@ import Data from "../data.json";
 export const menuTabs = () => {
   return [
     { title: "Education" },
-    { title: "Award" },
+    { title: "Experience" },
     { title: "Projects" },
     { title: "Skills" }
   ];

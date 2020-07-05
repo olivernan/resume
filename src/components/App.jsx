@@ -9,7 +9,7 @@ export default function App() {
     <div className="ui container" style={{ paddingTop: "1.5vh" }}>
       <TopBar
         name="Yiyang Nan"
-        description="Current University of Michigan undergraduate student"
+        description="@Umich"
       />
       <Menu />
       <Cards />

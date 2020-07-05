@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/resume/static/js/main.e221c5bb.chunk.js",
-    "main.js.map": "/resume/static/js/main.e221c5bb.chunk.js.map",
+    "main.js": "/resume/static/js/main.4cc9bb22.chunk.js",
+    "main.js.map": "/resume/static/js/main.4cc9bb22.chunk.js.map",
     "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
     "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
     "static/js/2.44e4ee60.chunk.js": "/resume/static/js/2.44e4ee60.chunk.js",
     "static/js/2.44e4ee60.chunk.js.map": "/resume/static/js/2.44e4ee60.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.3615bb0b273b52f55feb208b80a943e6.js": "/resume/precache-manifest.3615bb0b273b52f55feb208b80a943e6.js",
-    "service-worker.js": "/resume/service-worker.js"
+    "precache-manifest.0b4286b461a4793d4a2f944236305475.js": "/resume/precache-manifest.0b4286b461a4793d4a2f944236305475.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/media/IMG_0846.png": "/resume/static/media/IMG_0846.4a2407fc.png"
   }
 }
